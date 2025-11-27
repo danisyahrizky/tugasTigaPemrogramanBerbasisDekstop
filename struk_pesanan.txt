@@ -1,0 +1,6 @@
+=== STRUK PESANAN ===
+Soto Ayam 	: Rp 15000.0
+Es Teh 	: Rp 5000.0
+Es Teh 	: Rp 5000.0
+-----------------------------
+Total Bayar 	: Rp 25000.0
